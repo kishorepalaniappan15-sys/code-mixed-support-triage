@@ -1,0 +1,45 @@
+text,category
+Enna order innum varala enga irukku,DELIVERY
+Order delivery epo varum sollunga,DELIVERY
+Mera order abhi tak nahi aaya kab milega,DELIVERY
+Delivery late ho gayi mera parcel kahan hai,DELIVERY
+Enakku refund venum paisa thirumba kudunga,REFUND
+Refund innum kidaikala evlo naal aagum,REFUND
+Mera refund nahi aaya paise wapas chahiye,REFUND
+Paisa wapas kab milega refund status batao,REFUND
+Order cancel pannunga please,CANCEL
+Naan order cancel panna venum,CANCEL
+Mujhe apna order cancel karna hai,CANCEL
+Order cancel kar do abhi,CANCEL
+Enoda account login aagala password maathunga,ACCOUNT
+Account la problem irukku help pannunga,ACCOUNT
+Mera account login nahi ho raha password reset karo,ACCOUNT
+Account ka email badalna hai,ACCOUNT
+Payment pannen aana order confirm aagala,PAYMENT
+Card la paisa cut aagiduchu but payment failed,PAYMENT
+Mera payment fail ho gaya paise kat gaye,PAYMENT
+UPI se payment nahi ho raha help karo,PAYMENT
+Invoice venum GST bill anuppunga,INVOICE
+Enoda bill copy kudunga,INVOICE
+Mujhe invoice chahiye GST wala bill bhejo,INVOICE
+Bill ki copy email pe bhej do,INVOICE
+Shipping charge evlo aagum,SHIPPING
+Shipping address maathanum,SHIPPING
+Shipping charge kitna lagega mujhe batao,SHIPPING
+Delivery address galat hai badalna hai,SHIPPING
+Order la thappa item vandhuchu,ORDER
+Enoda order status enna,ORDER
+Mera order galat aaya hai item kharab hai,ORDER
+Order mein item change karna hai,ORDER
+Customer care number venum yaaru kitta pesalam,CONTACT
+Support team oda pesanum,CONTACT
+Customer care se baat karni hai number do,CONTACT
+Mujhe agent se baat karni hai,CONTACT
+Subscription cancel pannunga renewal venam,SUBSCRIPTION
+Newsletter subscription niruthunga,SUBSCRIPTION
+Meri subscription band karo renewal nahi chahiye,SUBSCRIPTION
+Newsletter band kar do,SUBSCRIPTION
+Service romba mosam feedback sollanum,FEEDBACK
+Unga app romba nalla irukku review,FEEDBACK
+Aapki service bahut kharab hai complaint hai,FEEDBACK
+Aapka app accha hai feedback dena hai,FEEDBACK

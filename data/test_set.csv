@@ -1,0 +1,41 @@
+text,expected_intent,expected_urgency,language
+Bro en order 10 naal aachu innum varala romba late,DELIVERY,Medium,Tanglish
+Enakku refund epo kidaikum? 2 vaaram aachu,REFUND,Medium,Tanglish
+Order cancel pannidunga thappa order panniten,CANCEL,Low,Tanglish
+Password marandhuten account login panna mudiyala,ACCOUNT,Low,Tanglish
+Payment cut aagiduchu but order confirm aagala udane sollunga,PAYMENT,High,Tanglish
+GST invoice venum email ku anuppunga,INVOICE,Low,Tanglish
+Shipping charge evlo Chennai ku?,SHIPPING,Low,Tanglish
+Address thappa pottuten maathanum before ship aagum,SHIPPING,Low,Tanglish
+Enoda order la vera item vandhuchu return pannanum,ORDER,Medium,Tanglish
+Customer care number kudunga yaarum phone edukala,CONTACT,Medium,Tanglish
+Subscription niruthunga renewal venam,SUBSCRIPTION,Low,Tanglish
+Unga service romba nalla irukku thanks,FEEDBACK,Low,Tanglish
+Idhu fraud paisa eduthutinga legal action edukuven,PAYMENT,High,Tanglish
+Delivery boy phone edukala parcel enga irukku,DELIVERY,Medium,Tanglish
+Refund venum product damaged ah vandhuchu,REFUND,Medium,Tanglish
+Account delete pannanum,ACCOUNT,Low,Tanglish
+Order status enna? track panna mudiyala,ORDER,Low,Tanglish
+Worst service ennoda order cancel pannunga udane,CANCEL,High,Tanglish
+Card la 2 time paisa cut aagiduchu,PAYMENT,Medium,Tanglish
+Newsletter mail romba varudhu niruthunga,SUBSCRIPTION,Low,Tanglish
+Bhai mera parcel 8 din se nahi aaya kab tak aayega,DELIVERY,Medium,Hinglish
+Mujhe refund chahiye product kharab nikla,REFUND,Medium,Hinglish
+Order cancel karna hai galti se ho gaya,CANCEL,Low,Hinglish
+Mera account hack ho gaya jaldi help karo,ACCOUNT,High,Hinglish
+Payment ho gaya lekin order confirm nahi hua,PAYMENT,Medium,Hinglish
+GST invoice bhej do please,INVOICE,Low,Hinglish
+Delivery charge kitna hai Delhi ke liye,SHIPPING,Low,Hinglish
+Address badalna hai abhi order ship nahi hua,SHIPPING,Low,Hinglish
+Galat size aaya hai exchange karna hai,ORDER,Medium,Hinglish
+Customer care se baat karni hai koi phone nahi utha raha,CONTACT,Medium,Hinglish
+Subscription band kar do paise kat rahe hain har mahine,SUBSCRIPTION,Medium,Hinglish
+Aapki service bahut achhi hai thank you,FEEDBACK,Low,Hinglish
+Ye fraud hai paise wapas do warna police mein jaunga,REFUND,High,Hinglish
+Order kab tak aayega urgent hai shaadi hai,DELIVERY,High,Hinglish
+Refund abhi tak nahi aaya 15 din ho gaye,REFUND,Medium,Hinglish
+Meri email id badalni hai account mein,ACCOUNT,Low,Hinglish
+Order ka status batao,ORDER,Low,Hinglish
+Bahut kharab experience tha worst app,FEEDBACK,High,Hinglish
+Paise do baar kat gaye payment mein,PAYMENT,Medium,Hinglish
+Mujhe cancel karna hai order abhi turant,CANCEL,High,Hinglish

@@ -1,5 +1,5 @@
 scikit-learn
 pandas
 datasets
-gradio
 joblib
+streamlit
